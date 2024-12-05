@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Burnxp
-- 👀 I’m interested js and html
-- 🌱 I’m currently learning javaScript
+- 👀 I’m interested HTML, CSS and JavaScript
+- 🌱 I’m currently learning HTML, CSS and JavaScript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
